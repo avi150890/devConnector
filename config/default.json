@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://avi123:avi123@devconnector.m9aza5h.mongodb.net/"
+  "mongoURI": "mongodb+srv://avi123:avi123@devconnector.m9aza5h.mongodb.net/",
+  "jwtSecret": "mysecrettoken"
 }
